@@ -1,0 +1,31 @@
+body{
+    background-image: url('image/background.jpg');
+}
+.en {
+    background-color: black;
+    font-size: 30px;
+    width: 100%;
+    padding: 10px;
+    position:fixed;
+    top:0%;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+border-radius:5px;
+background-color:rgb(5, 170, 247);
+font-size:20px;
+padding: 10px;
+color:rgb(253, 252, 252);
+}
+
+.colour{
+    color:black;
+}
+
+.bottom{
+    color:black;
+}
